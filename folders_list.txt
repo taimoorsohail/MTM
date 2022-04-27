@@ -1,0 +1,5 @@
+~/UNSW_work/Carbo_MM/Data/*carbon*
+~/UNSW_work/Carbo_MM/Data/*CO2*
+~/UNSW_work/Carbo_MM/Data/*phys*
+~/UNSW_work/Carbo_MM/*mask*
+~/UNSW_work/MTM_Neill/GitHub/MTM/
